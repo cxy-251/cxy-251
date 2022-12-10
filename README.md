@@ -5,9 +5,7 @@
 - 📫 How to reach me ...
 <details>
   <summary>Click on there</summary>
-  1. there
-  2. is
-  3. nothing
+  there is nothing
 </details>
 <!---
 cxy-251/cxy-251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
